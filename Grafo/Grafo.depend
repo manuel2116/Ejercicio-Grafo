@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1563952441 source:c:\users\manue\documents\programs\grafo_dinam\grafo\main.cpp
+	<iostream>
+	"Lista.h"
+	<windows.h>
+	<ctype.h>
+	"Cola.h"
+
+1563660239 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\arista.cpp
+	"Arista.h"
+
+1563660224 c:\users\manue\documents\programs\grafo_dinam\grafo\include\arista.h
+	<iostream>
+
+1563952331 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1563952331 c:\users\manue\documents\programs\grafo_dinam\grafo\include\lista.h
+	<iostream>
+	"Arista.h"
+	"Vertice.h"
+	"Visitados.h"
+	"Cola.h"
+	"Pila.h"
+
+1563660224 c:\users\manue\documents\programs\grafo_dinam\grafo\include\vertice.h
+	<iostream>
+	"Arista.h"
+
+1563660529 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\vertice.cpp
+	"Vertice.h"
+
+1563945688 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\visitados.cpp
+	"Visitados.h"
+
+1563941049 c:\users\manue\documents\programs\grafo_dinam\grafo\include\visitados.h
+	"Nodo_vertice.h"
+
+1563942886 c:\users\manue\documents\programs\grafo_dinam\grafo\include\cola.h
+	"Visitados.h"
+	<iostream>
+	"Nodo_vertice.h"
+
+1563934907 c:\users\manue\documents\programs\grafo_dinam\grafo\include\nodo_vertice.h
+	<iostream>
+	"Vertice.h"
+
+1563934596 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\nodo_vertice.cpp
+	"Nodo_vertice.h"
+
+1563949657 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1563949569 source:c:\users\manue\documents\programs\grafo_dinam\grafo\src\pila.cpp
+	"Pila.h"
+
+1563949569 c:\users\manue\documents\programs\grafo_dinam\grafo\include\pila.h
+	<iostream>
+	"Nodo_vertice.h"
+
